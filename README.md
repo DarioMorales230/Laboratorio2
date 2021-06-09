@@ -64,6 +64,13 @@ Medición: Intensidad 3 - Malla3 = -448 microA
 
 
 4. Respuesta a Interrogantes y Calculo del Error.
+5. 
+![Respuesta%20a%20Interrogantes%20y%20Calculo%20del%20Error-1](https://user-images.githubusercontent.com/85144847/121370818-a5942880-c902-11eb-8efc-1ef71db83948.png)
+![Respuesta%20a%20Interrogantes%20y%20Calculo%20del%20Error-2](https://user-images.githubusercontent.com/85144847/121370828-a6c55580-c902-11eb-8410-7e8982f31f3d.png)
+![Respuesta%20a%20Interrogantes%20y%20Calculo%20del%20Error-3](https://user-images.githubusercontent.com/85144847/121370831-a75dec00-c902-11eb-9114-81dac62c18e3.png)
+![Respuesta%20a%20Interrogantes%20y%20Calculo%20del%20Error-4](https://user-images.githubusercontent.com/85144847/121370832-a75dec00-c902-11eb-8fd1-f33bbabee0cc.png)
+![Respuesta%20a%20Interrogantes%20y%20Calculo%20del%20Error-5](https://user-images.githubusercontent.com/85144847/121370835-a7f68280-c902-11eb-9e51-f47bb66f43af.png)
+![Respuesta%20a%20Interrogantes%20y%20Calculo%20del%20Error-6](https://user-images.githubusercontent.com/85144847/121370837-a7f68280-c902-11eb-8079-7e88bdedbcaf.png)
 
 
 
