@@ -42,12 +42,25 @@ Nota: Cada una de las resistencias y fuentes de voltaje están configuradas con 
 
 ![image](https://user-images.githubusercontent.com/85144847/121295470-bcac2980-c8b4-11eb-8206-aefbe9194b56.png)
 
-3.6. Una ves medidos verificamos que el voltaje se asemeja mucho a los valores que estamos buscando en cada una de las resistencias se puede deducir que el circuito esta bien montado tanto como por la parte de la medición por lo que tenemos una idea de cómo deberán ir los cálculos en la parte matemática.
+3.6. Una ves medidos verificamos que el voltaje se asemeja mucho a los valores que estamos buscando en cada una de las resistencias se puede deducir que el circuito esta bien montado tanto como por la parte de la medición por lo que tenemos una idea de cómo deberán ir los cálculos en la parte matemática. En este punto deberemos tomar las medidas de las tres intensidades que obtuvimos dentro del circuito electrico.
 
+Medición: Intensidad 1 - Malla 1 = 11.5 mA
 
+![image](https://user-images.githubusercontent.com/85144847/121296299-06e1da80-c8b6-11eb-9baf-10d579427b04.png)
 
+Después procederemos a realizar la medición de la intensidad dos en el circuito electrico.
 
-3.6.
+Medición: Intensidad 2 - Malla 2 = 2.85 mA
+
+![image](https://user-images.githubusercontent.com/85144847/121296432-46a8c200-c8b6-11eb-91a7-c8f8ef6a0c6d.png)
+
+Y por último para dar fin a la práctica deberemos realizar la misma medición en la intensidad tres.
+
+Medición: Intensidad 3 - Malla3 = -448 microA
+
+![image](https://user-images.githubusercontent.com/85144847/121296520-72c44300-c8b6-11eb-8926-a19721f70e34.png)
+
+3.7. Una vez ya tomados todos los datos y mediciones procederemos a comparar con los calculados teniendo en cuenta el posible error de medición o calculo ya que esta es una simulación en un ambiente controlado e ideal por lo que el valor de error será mínimo a diferencia de lo podríamos encontrar en un ambiente real tras analizar las diferentes mallas que encontraremos en el circuito.
 
 
 4. Respuesta a Interrogantes y Calculo del Error.
