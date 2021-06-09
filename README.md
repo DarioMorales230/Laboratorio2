@@ -21,28 +21,28 @@
 
 3. Explicación del Procedimiento.
 
-1. Teniendo en cuenta que todas las normas de seguridad estén en cumplimiento se puede dar inicio con la práctica de laboratorio número dos, para comenzar con la práctica lo primero que debemos hacer es realizar el análisis de mallas del circuito en el que vamos a trabajar.
+3.1. Teniendo en cuenta que todas las normas de seguridad estén en cumplimiento se puede dar inicio con la práctica de laboratorio número dos, para comenzar con la práctica lo primero que debemos hacer es realizar el análisis de mallas del circuito en el que vamos a trabajar.
 
 ![image](https://user-images.githubusercontent.com/85144847/121295047-00eafa00-c8b4-11eb-97e2-5de281d9a813.png)
 
-2. Tras observar el circuito se observa que hay 5 Resistencias y 2 fuentes de poder en ambos extremos del circuito. Tras el análisis confirmamos que el circuito estará dividido en tres mallas donde tres resistencias se encontraran en serie y las 2 restantes se encontraran en paralelo.
-3
+3.2. Tras observar el circuito se observa que hay 5 Resistencias y 2 fuentes de poder en ambos extremos del circuito. Tras el análisis confirmamos que el circuito estará dividido en tres mallas donde tres resistencias se encontraran en serie y las 2 restantes se encontraran en paralelo.
 
-3. Ahora procederemos a revisar a cada uno de los componentes que necesitamos para simular el circuito, así como sus medidas siendo estos:
+
+3.3. Ahora procederemos a revisar a cada uno de los componentes que necesitamos para simular el circuito, así como sus medidas siendo estos:
 
 ![image](https://user-images.githubusercontent.com/85144847/121295253-545d4800-c8b4-11eb-85f7-0008b95fee6c.png)
 
-4. Una vez que comprobamos que poseemos todos y cada uno de los materiales procederemos a replicar el circuito en nuestra simulación por lo que esta vez nos apoyaremos de la página web Tinkercad quien nos permite simular circuitos de manera online y a tiempo real. 
+3.4. Una vez que comprobamos que poseemos todos y cada uno de los materiales procederemos a replicar el circuito en nuestra simulación por lo que esta vez nos apoyaremos de la página web Tinkercad quien nos permite simular circuitos de manera online y a tiempo real. 
 
 ![image](https://user-images.githubusercontent.com/85144847/121295377-88386d80-c8b4-11eb-8d7f-f3895d4bf81e.png)
 
 Nota: Cada una de las resistencias y fuentes de voltaje están configuradas con el valor correspondiente conforme nos indica el diagrama esquemático por lo que las mediciones tomadas serán muy precisas.
 
-5. Ahora procederemos a calcular los voltajes de cada resistencia en el circuito que se encuentra cerrado, teniendo en cuenta que la resistencia no tiene polaridad por lo que el multímetro se conectara en paralelo a la resistencia y el amperímetro se conectara en serie con la resistencia. 
+3.5. Ahora procederemos a calcular los voltajes de cada resistencia en el circuito que se encuentra cerrado, teniendo en cuenta que la resistencia no tiene polaridad por lo que el multímetro se conectara en paralelo a la resistencia y el amperímetro se conectara en serie con la resistencia. 
 
 ![image](https://user-images.githubusercontent.com/85144847/121295470-bcac2980-c8b4-11eb-8206-aefbe9194b56.png)
 
-6. Una ves medidos verificamos que el voltaje se asemeja mucho a los valores que estamos buscando en cada una de las resistencias se puede deducir que el circuito esta bien montado tanto como por la parte de la medición por lo que tenemos una idea de cómo deberán ir los cálculos en la parte matemática.
+3.6. Una ves medidos verificamos que el voltaje se asemeja mucho a los valores que estamos buscando en cada una de las resistencias se puede deducir que el circuito esta bien montado tanto como por la parte de la medición por lo que tenemos una idea de cómo deberán ir los cálculos en la parte matemática.
 
 
 
