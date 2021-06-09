@@ -34,7 +34,7 @@
 
 3.4. Una vez que comprobamos que poseemos todos y cada uno de los materiales procederemos a replicar el circuito en nuestra simulación por lo que esta vez nos apoyaremos de la página web Tinkercad quien nos permite simular circuitos de manera online y a tiempo real. 
 
-![image](https://user-images.githubusercontent.com/85144847/121295377-88386d80-c8b4-11eb-8d7f-f3895d4bf81e.png)
+               ![image](https://user-images.githubusercontent.com/85144847/121295377-88386d80-c8b4-11eb-8d7f-f3895d4bf81e.png)
 
 Nota: Cada una de las resistencias y fuentes de voltaje están configuradas con el valor correspondiente conforme nos indica el diagrama esquemático por lo que las mediciones tomadas serán muy precisas.
 
