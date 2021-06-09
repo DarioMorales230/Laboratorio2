@@ -26,7 +26,7 @@
 ![image](https://user-images.githubusercontent.com/85144847/121295047-00eafa00-c8b4-11eb-97e2-5de281d9a813.png)
 
 2. Tras observar el circuito se observa que hay 5 Resistencias y 2 fuentes de poder en ambos extremos del circuito. Tras el análisis confirmamos que el circuito estará dividido en tres mallas donde tres resistencias se encontraran en serie y las 2 restantes se encontraran en paralelo.
-
+3
 
 3. Ahora procederemos a revisar a cada uno de los componentes que necesitamos para simular el circuito, así como sus medidas siendo estos:
 
