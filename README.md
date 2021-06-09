@@ -82,4 +82,8 @@ Medición: Intensidad 3 - Malla3 = -448 microA
 
 7. Bibliografía.
 
+•	Análisis de Circuitos – Robbins.pdf
+•	Cuaderno de Electrotecnia – Ing. Wilmer Loza
+•	Cuaderno de Instalaciones eléctricas I – Ing. Wilmer Loza 
+•	Folleto de Análisis – Ing. Wilmer Loza 
 
