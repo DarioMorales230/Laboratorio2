@@ -1,5 +1,7 @@
 # Laboratorio2
 
+Integrantes: Henry Dario Morales Carrillo, Edwin Ivan Montenegro Aguilar, Nicolas Fabian Flores Castillo.
+
 1. Objetivos.
 
 1.1. Objetivo General.
