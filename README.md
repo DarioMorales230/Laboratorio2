@@ -17,7 +17,7 @@
 
 2. Marco Teorico.
 
-
+![untitled@2x](https://user-images.githubusercontent.com/85144847/121373523-c198c980-c904-11eb-9f51-5e8497a18a04.png)
 
 3. Explicación del Procedimiento.
 
