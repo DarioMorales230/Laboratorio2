@@ -69,7 +69,7 @@ Medición: Intensidad 3 - Malla3 = -448 microA
 
 5. Video de YouTube.
 
-
+https://www.youtube.com/watch?v=N_T37AoCtVU&t=485s
 
 6. Conclusiones.
 
